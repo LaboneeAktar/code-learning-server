@@ -20,7 +20,7 @@
     "title": "Java",
     "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a general purpose programming language, much like Python or JavaScript. The language itself is specifically an object oriented programming language, so bears similarities to C++, C#. Java is also a platform, which means that Java code can run on any machine that has a Java Virtual Machine (JVM) on it.",
     "category": "Programming Language",
-    "image": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+    "image": "https://dev.java/assets/images/java-logo-vert-blk.png",
     "rating": { "rate": 4, "count": 500 }
   },
   {
