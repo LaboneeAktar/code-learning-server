@@ -1,8 +1,8 @@
 [
   {
-    "id": " 01",
+    "id": "01",
     "title": "C",
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "description": "C programming language is a machine-independent programming language that is mainly used to create many types of applications and operating systems such as Windows, and other complicated programs such as the Oracle database, Git, Python interpreter, and games and is considered a programming foundation in the process of learning any other programming language. Operating systems and diverse application software for computer architectures ranging from supercomputers to PLCs and embedded systems are examples of such applications.",
     "category": "Programming Language",
     "image": "https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
     "rating": { "rate": 4.2, "count": 120 }
@@ -10,7 +10,7 @@
   {
     "id": "02",
     "title": "C++",
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "description": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems. C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.",
     "category": "Programming Language",
     "image": "https://w10.naukri.com/mailers/2021/naukri-learning/dec/17dec/What-is-Cplusplus.jpg",
     "rating": { "rate": 4.1, "count": 259 }
@@ -18,7 +18,7 @@
   {
     "id": "03",
     "title": "Java",
-    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a general purpose programming language, much like Python or JavaScript. The language itself is specifically an object oriented programming language, so bears similarities to C++, C#. Java is also a platform, which means that Java code can run on any machine that has a Java Virtual Machine (JVM) on it.",
     "category": "Programming Language",
     "image": "https://contentstatic.techgig.com/photo/90078629.cms",
     "rating": { "rate": 4, "count": 500 }
@@ -26,7 +26,7 @@
   {
     "id": "04",
     "title": "JavaScript",
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "description": " JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.",
     "category": "Programming Language",
     "image": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644309392998-Sorting%20image-25.png",
     "rating": { "rate": 4.3, "count": 430 }
@@ -34,7 +34,7 @@
   {
     "id": "05",
     "title": "PHP",
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "description": "PHP is an acronym for 'PHP: Hypertext Preprocessor'. PHP is a widely-used, open source scripting language. PHP is a server side scripting language that is embedded in HTML. PHP scripts are executed on the server. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
     "category": "Programming Language",
     "image": "https://contentstatic.techgig.com/photo/77717392/heres-why-php-is-still-popular-in-2020.jpg?333292",
     "rating": { "rate": 4.6, "count": 400 }
@@ -43,8 +43,8 @@
     "id": "06",
     "title": "Python",
     "price": 168,
-    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-    "category": "Programming Language",
+    "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.",
+    "category": "Programming Language.",
     "image": "https://cdn.hackernoon.com/images/q141s3xfs.jpg",
     "rating": { "rate": 4.5, "count": 70 }
   }
