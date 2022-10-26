@@ -4,24 +4,54 @@
     "title": "C",
     "description": "C programming language is a machine-independent programming language that is mainly used to create many types of applications and operating systems such as Windows, and other complicated programs such as the Oracle database, Git, Python interpreter, and games and is considered a programming foundation in the process of learning any other programming language. Operating systems and diverse application software for computer architectures ranging from supercomputers to PLCs and embedded systems are examples of such applications.",
     "category": "Programming Language",
-    "image": "https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png",
-    "rating": { "rate": 4.2, "count": 120 }
+    "image": "https://cdnp2.stackassets.com/e1ea0eb3dac8d6eec198c408b0c023d20bb5f14b/store/opt/596/298/5e57580c15b87b98c78bb0becec5dac0c95807a0a7ff53406d145fb98bdc/sale_9382_primary_image_wide.jpg",
+    "rating": { "rate": 4.2, "count": 120 },
+    "features": [
+      "Fast.",
+      "Extensibility.",
+      "Function-Rich Libraries.",
+      "Dynamic Memory Management.",
+      "Modularity With Structured Language.",
+      "Mid-Level Programming Languag"
+    ],
+    "price": "511"
   },
   {
     "id": "02",
     "title": "C++",
     "description": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems. C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.",
     "category": "Programming Language",
-    "image": "https://play-lh.googleusercontent.com/oHEUpWq4RffOrN7HvqfNKtTWyYKgNrIBc2EprrMGK8kwz0qhA_zQB500bpex-XHJ1Cs",
-    "rating": { "rate": 4.1, "count": 259 }
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3u1aWUCM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/stfvlecgmmp4dso3v0iv.jpg",
+    "rating": { "rate": 4.1, "count": 259 },
+    "features": [
+      "Object Oriented.",
+      "Simple.",
+      "Platform Dependent.",
+      "Mid-level programming language.",
+      "Structured programming language.",
+      "Rich Library.",
+      "Memory Management."
+    ],
+    "price": "512"
   },
   {
     "id": "03",
     "title": "Java",
     "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a general purpose programming language, much like Python or JavaScript. The language itself is specifically an object oriented programming language, so bears similarities to C++, C#. Java is also a platform, which means that Java code can run on any machine that has a Java Virtual Machine (JVM) on it.",
     "category": "Programming Language",
-    "image": "https://dev.java/assets/images/java-logo-vert-blk.png",
-    "rating": { "rate": 4, "count": 500 }
+    "image": "https://www.invensis.net/blog/wp-content/uploads/2015/05/Benefits-of-Java-over-Other-Programming-Languages-Invensis.jpg",
+    "rating": { "rate": 4, "count": 500 },
+    "features": [
+      "Switch Expressions.",
+      "File mismatch() Method.",
+      "Compact Number Formatting.",
+      "Structured programming language.",
+      "Platform Independent.",
+      "Memory Management.",
+      "Secure.",
+      "Robust."
+    ],
+    "price": "612"
   },
   {
     "id": "04",
@@ -29,7 +59,17 @@
     "description": " JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.",
     "category": "Programming Language",
     "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
-    "rating": { "rate": 4.3, "count": 430 }
+    "rating": { "rate": 4.3, "count": 430 },
+    "features": [
+      "Simplicity.",
+      "Popularity.",
+      "Interoperability.",
+      "Server Load.",
+      "Rich Interfaces.",
+      "Extended Functionality.",
+      "Versatility."
+    ],
+    "price": "535"
   },
   {
     "id": "05",
@@ -37,15 +77,33 @@
     "description": "PHP is an acronym for 'PHP: Hypertext Preprocessor'. PHP is a widely-used, open source scripting language. PHP is a server side scripting language that is embedded in HTML. PHP scripts are executed on the server. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
     "category": "Programming Language",
     "image": "https://contentstatic.techgig.com/photo/77717392/heres-why-php-is-still-popular-in-2020.jpg?333292",
-    "rating": { "rate": 4.6, "count": 400 }
+    "rating": { "rate": 4.6, "count": 400 },
+    "features": [
+      "Simplicity.",
+      "Flexibility.",
+      "Object Oriented.",
+      "Interpreted Language.",
+      "Fast Performance.",
+      "Free & Open Source."
+    ],
+    "price": "725"
   },
   {
     "id": "06",
     "title": "Python",
-    "price": 168,
     "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.",
     "category": "Programming Language.",
     "image": "https://cdn.hackernoon.com/images/q141s3xfs.jpg",
-    "rating": { "rate": 4.5, "count": 70 }
+    "rating": { "rate": 4.7, "count": 70 },
+    "features": [
+      "Easy to Code. Python is a very high-level programming language.",
+      "Easy to Read. ",
+      "Robust Standard Library.",
+      "Interpreted Language.",
+      "Object-Oriented and Procedure-Oriented.",
+      "Free & Open Source.",
+      "Extensible"
+    ],
+    "price": "775"
   }
 ]
