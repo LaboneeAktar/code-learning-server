@@ -39,7 +39,7 @@
     "title": "Java",
     "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a general purpose programming language, much like Python or JavaScript. The language itself is specifically an object oriented programming language, so bears similarities to C++, C#. Java is also a platform, which means that Java code can run on any machine that has a Java Virtual Machine (JVM) on it.",
     "category": "Programming Language",
-    "image": "https://www.invensis.net/blog/wp-content/uploads/2015/05/Benefits-of-Java-over-Other-Programming-Languages-Invensis.jpg",
+    "image": "https://softwareengineeringdaily.com/wp-content/uploads/2020/01/Java-Debugging-Tips-881x441.jpg",
     "rating": { "rate": 4, "count": 500 },
     "features": [
       "Switch Expressions.",
@@ -58,7 +58,7 @@
     "title": "JavaScript",
     "description": " JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.",
     "category": "Programming Language",
-    "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+    "image": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png",
     "rating": { "rate": 4.3, "count": 430 },
     "features": [
       "Simplicity.",
